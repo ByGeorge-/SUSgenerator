@@ -1,4 +1,4 @@
-# sus.py as a class based program 
+# Generate exciting but semantically unpredictable (!!) sentences. 
 from nltk import tokenize, pos_tag
 from nltk.stem import WordNetLemmatizer
 import re
